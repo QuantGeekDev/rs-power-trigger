@@ -36,6 +36,7 @@ anyhow = "1.0.89"
 
 colored = "2.1.0"
 heapless = "0.8.0"
+dotenv = "0.15.0"
 
 [build-dependencies]
 embuild = "0.32.0"
